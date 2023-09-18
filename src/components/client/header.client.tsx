@@ -36,12 +36,12 @@ const Header = (props: any) => {
             icon: <TwitterOutlined />,
         },
         {
-            label: <Link to={'/job'}>Việc Làm IT</Link>,
+            label: <Link to={'/job'}>Phản ánh kiến nghị</Link>,
             key: '/job',
             icon: <CodeOutlined />,
         },
         {
-            label: <Link to={'/company'}>Top Công ty IT</Link>,
+            label: <Link to={'/company'}>Danh sách các đơn vị</Link>,
             key: '/company',
             icon: <RiseOutlined />,
         }

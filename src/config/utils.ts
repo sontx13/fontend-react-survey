@@ -16,9 +16,16 @@ export const SKILLS_LIST =
 
 export const LOCATION_LIST =
     [
-        { label: "Hà Nội", value: "HANOI" },
-        { label: "Hồ Chí Minh", value: "HOCHIMINH" },
-        { label: "Đà Nẵng", value: "DANANG" },
+        { label: "TP Bắc Giang", value: "TPBACGIANG" },
+        { label: "Tân Yên", value: "TANYEN" },
+        { label: "Yên Thế", value: "YENTHE" },
+        { label: "Hiệp Hoà", value: "HIEPHOA" },
+        { label: "Lạng Giang", value: "LANGGIANG" },
+        { label: "Yên Dũng", value: "YENDUNG" },
+        { label: "Việt Yên", value: "VIETYEN" },
+        { label: "Lục Nam", value: "LUCNAM" },
+        { label: "Lục Ngạn", value: "LUCNGAN" },
+        { label: "Sơn Động", value: "SONDONG" },
         { label: "Others", value: "OTHER" },
         { label: "Tất cả thành phố", value: "ALL" },
     ];
